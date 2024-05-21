@@ -10,6 +10,7 @@ on:
       - src/**
       - build.gradle
       - .github/workflows/publish.yml
+      - Dockerfile
 permissions:
   contents: read
 
